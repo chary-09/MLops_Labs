@@ -1,0 +1,9 @@
+{
+    "model_name": "Random Forest Classifier",
+    "dataset": "Iris Dataset",
+    "training_records": 120,
+    "testing_records": 30,
+    "accuracy": 0.9,
+    "execution_time_seconds": 0.0833,
+    "model_file": "iris_model.pkl"
+}
